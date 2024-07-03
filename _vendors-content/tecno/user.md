@@ -1,8 +1,8 @@
----
+1---
 manufacturer:
     - tecno
 
----
+1---
 
 ## Power Saving Management
 
